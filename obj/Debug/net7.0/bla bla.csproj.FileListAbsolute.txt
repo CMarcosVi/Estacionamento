@@ -1,0 +1,15 @@
+C:\Users\Imperios\Desktop\bla bla\bin\Debug\net7.0\bla bla.exe
+C:\Users\Imperios\Desktop\bla bla\bin\Debug\net7.0\bla bla.deps.json
+C:\Users\Imperios\Desktop\bla bla\bin\Debug\net7.0\bla bla.runtimeconfig.json
+C:\Users\Imperios\Desktop\bla bla\bin\Debug\net7.0\bla bla.dll
+C:\Users\Imperios\Desktop\bla bla\bin\Debug\net7.0\bla bla.pdb
+C:\Users\Imperios\Desktop\bla bla\obj\Debug\net7.0\bla bla.csproj.AssemblyReference.cache
+C:\Users\Imperios\Desktop\bla bla\obj\Debug\net7.0\bla bla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Imperios\Desktop\bla bla\obj\Debug\net7.0\bla bla.AssemblyInfoInputs.cache
+C:\Users\Imperios\Desktop\bla bla\obj\Debug\net7.0\bla bla.AssemblyInfo.cs
+C:\Users\Imperios\Desktop\bla bla\obj\Debug\net7.0\bla bla.csproj.CoreCompileInputs.cache
+C:\Users\Imperios\Desktop\bla bla\obj\Debug\net7.0\bla bla.dll
+C:\Users\Imperios\Desktop\bla bla\obj\Debug\net7.0\refint\bla bla.dll
+C:\Users\Imperios\Desktop\bla bla\obj\Debug\net7.0\bla bla.pdb
+C:\Users\Imperios\Desktop\bla bla\obj\Debug\net7.0\bla bla.genruntimeconfig.cache
+C:\Users\Imperios\Desktop\bla bla\obj\Debug\net7.0\ref\bla bla.dll
